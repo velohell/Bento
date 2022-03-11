@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: '90f77f21b187858722d74000b44ba90a', // Write here your API Key
@@ -140,7 +140,7 @@ const CONFIG = {
       links: [
         {
           name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          link: 'https://somafm.com/defcon/',
         },
         {
           name: 'Classic',
@@ -222,7 +222,7 @@ const CONFIG = {
         },
         {
           name: 'Repos',
-          link: 'https://github.com/migueravila',
+          link: 'https://github.com/abayliff',
         },
       ],
     },
